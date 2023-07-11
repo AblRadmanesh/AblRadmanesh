@@ -82,7 +82,7 @@ class Birth : Application() {
         super.onCreate()
 
         while (true) {
-            println("Learning Android......")
+            println("پسری که همیشه دانشجو میمونه... ")
         }
     }
 }
@@ -100,10 +100,10 @@ class Life : AppCompatActivity() {
 
         while (!this.isFinishing) {
             for (totalHours in 0..24) {
-                println("Coding for Android...")
+                println("همیشه کد... ")
             }
         }
-        println("It went beautifully...")
+        println("خیلی زیبا بود و زییا گذشت... ")
 
     }
 }
