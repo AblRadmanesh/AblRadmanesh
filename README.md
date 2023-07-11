@@ -4,7 +4,7 @@
 🧑🏻‍🎓دانشجوی رشته 💻نرم افزار و علاقه مند به برنامه نویسی اندروید، همچنین من عاشق تدریسم که برای آشنا شدن با نحوه تدریسم میتوانید داخل یوتیوب و آپارات نمونه تدریسم رو مشاهده کنید. پس کافیه روی آیکون کلیک کنید تا ویدیو ها را مشاهده کنید
 
 
-[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtube.com/@learndotroid) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![logo](./res/drawable/logo.png)](https://www.aparat.com/LearnDotRoid)
+[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtube.com/@learndotroid) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![logo](./res/drawable/logo.png)](https://www.aparat.com/LearnDotRoid) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![logo_telegram](./res/drawable/logo_telegram.png)](https://t.me/LearnDotRoidRad) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![logo_insta](./res/drawable/logo_insta.png)](https://youtube.com/@learndotroid)
 
 
 
