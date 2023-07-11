@@ -4,9 +4,8 @@
 🧑🏻‍🎓دانشجوی رشته 💻نرم افزار و علاقه مند به برنامه نویسی اندروید، همچنین من عاشق تدریسم که برای آشنا شدن با نحوه تدریسم میتوانید داخل یوتیوب و آپارات نمونه تدریسم رو مشاهده کنید. پس کافیه روی آیکون کلیک کنید تا ویدیو ها را مشاهده کنید
 
 
-![logo_youtube](https://github.com/AblRadmanesh/AblRadmanesh/assets/58856739/5d593de1-6e5f-4e56-88bc-16dbd4edc035) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![logo](https://github.com/AblRadmanesh/AblRadmanesh/assets/58856739/503a34ab-9ccc-4377-9fea-1ecb9b7e4dea)
+[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtube.com/@learndotroid) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![logo](./res/drawable/logo.png)](https://www.aparat.com/LearnDotRoid)
 
-[![sdsdds](./res/drawable/me.jpg)](https://example.com)
 
 
 
