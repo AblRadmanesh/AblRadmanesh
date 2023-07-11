@@ -5,7 +5,7 @@
 
     <application
         android:name=".Birth"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="./res/drawable/me.jpg"
         android:label="Abolfazl Radmanesh"
         android:supportsRtl="true"
         tools:targetApi="23">
