@@ -1,7 +1,19 @@
 # یه صحبت اولیه
 سلام من **ابوالفضل رادمنش** هستم .
 
-دانشجوی رشته نرم افزار و علاقه مند به برنامه نویسی اندروید ، همچنین من عاشق تدریسم که برای آشنا شدن با نحوه تدریسم میتوانید داخل یوتیوب نمونه تدریسم رو مشاهده کنید. پس کافیه [روی متن کلیک کنید تا ویدیو ها را مشاهده کنید](https://youtube.com/@learndotroid)
+🧑🏻‍🎓دانشجوی رشته 💻نرم افزار و علاقه مند به برنامه نویسی اندروید، همچنین من عاشق تدریسم که برای آشنا شدن با نحوه تدریسم میتوانید داخل یوتیوب و آپارات نمونه تدریسم رو مشاهده کنید. پس کافیه روی آیکون کلیک کنید تا ویدیو ها را مشاهده کنید
+
+
+![logo_youtube](https://github.com/AblRadmanesh/AblRadmanesh/assets/58856739/5d593de1-6e5f-4e56-88bc-16dbd4edc035) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![logo](https://github.com/AblRadmanesh/AblRadmanesh/assets/58856739/503a34ab-9ccc-4377-9fea-1ecb9b7e4dea)
+
+[![sdsdds](./res/drawable/me.jpg)](https://example.com)
+
+
+
+
+
+
+
 
 
 
@@ -40,7 +52,7 @@
 
     <application
         android:name=".Birth"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="./res/drawable/me.jpg"
         android:label="Abolfazl Radmanesh"
         android:supportsRtl="true"
         tools:targetApi="23">
