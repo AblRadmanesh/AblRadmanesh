@@ -5,9 +5,13 @@
 
 
 [![logo_youtube](./res/drawable/logo_youtube.png)](https://youtube.com/@learndotroid)
+
  [![logo](./res/drawable/logo.png)](https://www.aparat.com/LearnDotRoid)
+
  [![logo_telegram](./res/drawable/logo_telegram.png)](https://t.me/LearnDotRoidRad)
+
  [![logo_insta](./res/drawable/logo_insta.png)](https://youtube.com/@learndotroid)
+
 
 
 
