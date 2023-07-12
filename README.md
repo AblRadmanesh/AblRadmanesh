@@ -14,7 +14,7 @@
 
 ‏ [![logo_telegram](./res/drawable/logo_telegram.png)](https://t.me/LearnDotRoidRad)
 
-‏ [![logo_insta](./res/drawable/logo_insta.png)](https://youtube.com/@learndotroid)
+‏ [![logo_insta](./res/drawable/logo_insta.png)](https://www.instagram.com/devRadmanesh/)
 
 
 
@@ -22,6 +22,17 @@
 
 
 در ضمن من دوست دارم برنامه نویسی باشم که خلاقه در عین حال به بهینه و تمیز بودن کدش اهمیت میده و سعی میکنه یه محیط نسبتا ساده اما زیبا رو به کاربرش هدیه بده بدون شک کاربرای من لایق بهترین ها هستن.
+
+# مشخصات من :
+- نام : ابوالفضل 
+- نام خانوادگی : رادمنش
+- تاریخ تولد : 1379
+- شماره تماس : 989012712284
+- محل سکونت : ایران - اصفهان
+- دیگر راه ارتباطی :
+    - [تلگرام](https://t.me/LearnDotRoidRad)
+    - [لینکدین](https://www.linkedin.com/in/abolfazl-radmanesh-03a7a4192/)
+    - [اینستاگرام](https://www.instagram.com/devRadmanesh/)
 
 # دانشگاه ها :
 
